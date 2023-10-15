@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "title": "MSI Pro 16 Flex-036AU 15.6 MULTI-TOUCH All-In-On",
+    "price": 499,
+    "image": "https://storage-asset.msi.com/global/picture/image/feature/AIO/AP16_flex/Dual_img01.png",
+    "amount": 120
+  },
+  {
+    "id": 2,
+    "title": "Apple MacBook Pro 13-inch, 8GB RAM, 512GB SSD Storage - Space Gray (Latest Model)",
+    "price": 1299,
+    "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
+    "amount": 50
+  },
+  {
+    "id": 3,
+    "title": "ASUS VivoBook 15 Thin and Light Laptop, 15.6” FHD Display, Intel i3-1005G1 CPU, 8GB RAM, 128GB SSD, Backlit Keyboard, Fingerprint, Windows 10 Home in S Mode, Slate Gray, F512JA-AS34",
+    "price": 399,
+    "image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/81fstJkUlaL._AC_UF1000,1000_QL80_.jpg",
+    "amount": 80
+  },
+  {
+    "id": 4,
+    "title": "Samsung Galaxy Tab S7 Wi-Fi, Mystic Black - 256 GB",
+    "price": 649,
+    "image": "https://image-us.samsung.com/SamsungUS/home/mobile/tablets/galaxy-tab-s7/SM-T870_Combo_001_MysticBlack_1600x1200.jpg?$product-details-jpg$",
+    "amount": 30
+  },
+  {
+    "id": 5,
+    "title": "Acer Chromebook Spin 311 Convertible Laptop, Intel Celeron N4020, 11.6\" HD Touch, 4GB LPDDR4, 32GB eMMC, Gigabit WiFi 5, Bluetooth 5.0, Google Chrome, CP311-2H-C679",
+    "price": 259,
+    "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
+    "amount": 100
+  },
+  {
+    "id": 6,
+    "title": "LG 27GL83A-B 27 Inch Ultragear QHD IPS 1ms NVIDIA G-SYNC Compatible Gaming Monitor, Black",
+    "price": 379,
+    "image": "https://www.lg.com/us/images/monitors/md07000489/gallery/desktop-01.jpg",
+    "amount": 20
+  },
+  {
+    "id": 7,
+    "title": "Seagate Portable 2TB External Hard Drive Portable HDD – USB 3.0 for PC, Mac, PS4, & Xbox - 1-year Rescue Service (STGX2000400)",
+    "price": 59,
+    "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+    "amount": 60
+  },
+  {
+    "id": 8,
+    "title": "HP Pavilion 15 Laptop, 11th Gen Intel Core i5-1135G7 Processor, 8 GB RAM, 515 GB SSD Storage, HD IPS Micro-Edge Display, Windows 10 Home, Compact Design, Long Battery Life (15-eg0010nr, 2020)",
+    "price": 699,
+    "image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/81CoC-C8wXL._AC_UF894,1000_QL80_.jpg",
+    "amount": 70
+  }
+]
